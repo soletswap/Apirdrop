@@ -1,0 +1,3 @@
+# Örnek adres dosyası
+# Her satıra bir public key yaz
+# Boş satırlar ve # başlayan satırlar yok sayılır
